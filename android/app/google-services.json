@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "161244832052",
+    "firebase_url": "https://auctionlaravel.firebaseio.com",
+    "project_id": "auctionlaravel",
+    "storage_bucket": "auctionlaravel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161244832052:android:7304b2fc59381263240561",
+        "android_client_info": {
+          "package_name": "com.buddhist.auction"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161244832052-40a6aatvnm0kq78did17gb0h0kki29ob.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.buddhist.auction",
+            "certificate_hash": "54904481b70922937f8d1941137bd7498f2ac363"
+          }
+        },
+        {
+          "client_id": "161244832052-ofh7kip48cv7g9103iovckr83fap3qpe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.buddhist.auction",
+            "certificate_hash": "9c047dda0b0e0d4e92a1df7c6fdbc0302f3612a1"
+          }
+        },
+        {
+          "client_id": "161244832052-59qovodpd0d2c5nstgscdl6ncthm96eq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBkmvLKMz93z7kCByBhxblRDwgfNHAF1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161244832052-59qovodpd0d2c5nstgscdl6ncthm96eq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "161244832052-89qtcaqpul7qkv0be8idjqqn5lr0vffu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.buddhist.auction"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
